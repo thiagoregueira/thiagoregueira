@@ -1,4 +1,4 @@
-## Bem-vindo!!! 👋🧑‍💻
+## Bem-vindo(a)!!! 👋🧑‍💻
 
 ### Resumo 
 Apaixonado por Desenvolvimento Web Java, Spring | Análise e Engenharia de Dados | Transformando Habilidades em Resultados.
