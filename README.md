@@ -5,8 +5,8 @@ Apaixonado por Desenvolvimento Web Java, Spring | Análise e Engenharia de Dados
 
 ### Habilidades: 
 * Linguagens: Java, Python.
-* Frameworks: Spring Boot.
-* Databases: MySQL, PostgreSQL, SQL Server.
+* Frameworks: Spring Boot, Django.
+* Databases: MySQL, PostgreSQL, SQL Server, Oracle.
 * Development Environments/IDEs: Visual Studio Code, Git.
 * Platforms: Windows and Linux.
 * Application/Web Servers: Apache, Tomcat.
