@@ -4,8 +4,8 @@
 Apaixonado por Desenvolvimento Web Java, Spring | Análise e Engenharia de Dados | Transformando Habilidades em Resultados.
 
 ### Habilidades: 
-* Linguagens: Java, Python.
-* Frameworks: Spring Boot, Django, Flask, Fastapi.
+* Linguagens: Python, Java.
+* Frameworks: Django, Flask, Fastapi, Spring Boot.
 * Databases: MySQL, PostgreSQL, SQL Server, Oracle.
 * Development Environments/IDEs: Visual Studio Code, Git.
 * Platforms: Windows and Linux.
